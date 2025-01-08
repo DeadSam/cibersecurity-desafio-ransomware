@@ -8,6 +8,6 @@ Criar um ramsomware em python que criptografa o arquivo ``teste.txt`` e o descri
 
 ### Arquivos
 
-``teste.txt``: arquivo que será criptografado
-``encrypter.p``: responsável pela encriptação
-``decrypter.p``: responsável pela desencriptação
+- ``teste.txt``: arquivo que será criptografado
+- ``encrypter.p``: responsável pela encriptação
+- ``decrypter.p``: responsável pela desencriptação
